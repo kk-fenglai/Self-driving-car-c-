@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|solutionrelative:car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\planning_base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|solutionrelative:planning_base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\planning_base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|solutionrelative:planning_base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|solutionrelative:car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\road.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|solutionrelative:road.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|solutionrelative:main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\scene_straight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|solutionrelative:scene_straight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\scene_straight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|solutionrelative:scene_straight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\scene_base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|solutionrelative:scene_base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\scene_base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|solutionrelative:scene_base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\traffic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|solutionrelative:traffic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\traffic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|solutionrelative:traffic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\road.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF243757-0683-4152-A761-7AAE123154BC}|\u65E0\u4EBA\u5C0F\u8F66.vcxproj|solutionrelative:road.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "car.h",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\car.h",
+              "RelativeDocumentMoniker": "car.h",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\car.h",
+              "RelativeToolTip": "car.h",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAUwDAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-10T16:39:51.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "planning_base.cpp",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\planning_base.cpp",
+              "RelativeDocumentMoniker": "planning_base.cpp",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\planning_base.cpp",
+              "RelativeToolTip": "planning_base.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T15:58:13.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "planning_base.h",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\planning_base.h",
+              "RelativeDocumentMoniker": "planning_base.h",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\planning_base.h",
+              "RelativeToolTip": "planning_base.h",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwB0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-10T15:08:46.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "car.cpp",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\car.cpp",
+              "RelativeDocumentMoniker": "car.cpp",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\car.cpp",
+              "RelativeToolTip": "car.cpp",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAHYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T15:11:31.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "traffic.h",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\traffic.h",
+              "RelativeDocumentMoniker": "traffic.h",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\traffic.h",
+              "RelativeToolTip": "traffic.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-10T15:09:36.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "traffic.cpp",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\traffic.cpp",
+              "RelativeDocumentMoniker": "traffic.cpp",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\traffic.cpp",
+              "RelativeToolTip": "traffic.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T15:11:44.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "road.h",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\road.h",
+              "RelativeDocumentMoniker": "road.h",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\road.h",
+              "RelativeToolTip": "road.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-10T15:09:53.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "scene_base.h",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\scene_base.h",
+              "RelativeDocumentMoniker": "scene_base.h",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\scene_base.h",
+              "RelativeToolTip": "scene_base.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-10T15:10:13.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "scene_base.cpp",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\scene_base.cpp",
+              "RelativeDocumentMoniker": "scene_base.cpp",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\scene_base.cpp",
+              "RelativeToolTip": "scene_base.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T15:12:43.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "scene_straight.h",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\scene_straight.h",
+              "RelativeDocumentMoniker": "scene_straight.h",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\scene_straight.h",
+              "RelativeToolTip": "scene_straight.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-10T15:13:37.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "scene_straight.cpp",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\scene_straight.cpp",
+              "RelativeDocumentMoniker": "scene_straight.cpp",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\scene_straight.cpp",
+              "RelativeToolTip": "scene_straight.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T15:14:11.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.h",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\main.h",
+              "RelativeDocumentMoniker": "main.h",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\main.h",
+              "RelativeToolTip": "main.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-10T15:11:20.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "road.cpp",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\road.cpp",
+              "RelativeDocumentMoniker": "road.cpp",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\\u65E0\u4EBA\u5C0F\u8F66\\road.cpp",
+              "RelativeToolTip": "road.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T15:12:00.876Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
